@@ -38,8 +38,9 @@ function genPassword() {
     //var
     for (var i = 0; i < parseInt(lengthOfPassword); i++) {
       // pick a random letter from combined
-      var item = combined[Math.floor(Math.random() * parseInt(lengthOfPassword))];
+      var item = combined[Math.floor(Math.random() * combined.length)];
       finalPassword = finalPassword + item;
+
       console.log(item);
     
   
