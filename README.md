@@ -16,3 +16,5 @@ MIT
 # Links
 https://fedub1.github.io/Random-Password-Generator/
 
+![RandomPWGenerator](https://user-images.githubusercontent.com/68029856/103162181-3515a700-47bb-11eb-9740-f0bab97741fb.PNG)
+
